@@ -1,2 +1,2 @@
-# sensordata
-- api testing via pythonanywhere
+# sensordata 
+# Einlesen der Sensordata in eine .sqlíte DB
